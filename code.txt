@@ -4,3 +4,4 @@ javascript
 jquery
 json
 Ajax
+anglular js
